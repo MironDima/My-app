@@ -1,0 +1,35 @@
+block_navbar{
+
+}
+
+block_text{
+	font-size: 25px;
+}
+
+/*BG*/
+.bg{
+	background-image: url(/IMG/bg.jpg);
+	opacity: 90%;
+	
+}
+.text{
+	color:aliceblue;
+	text-align: center;
+	
+}
+.text1{
+	width: 300px;
+}
+/*footer*/
+footer{
+	background-color: aqua;
+}
+.block_img{
+	width: 200px;
+	text-align: center;
+}
+footer{
+	margin-top: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
